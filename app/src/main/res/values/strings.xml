@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Night owl</string>
+
+    <string name="action_about">About</string>
+    <string name="action_overlay_system">Overlay Status Bar</string>
+    <string name="action_dark_theme">Dark theme</string>
+
+    <string name="text_light">LIGHT</string>
+    <string name="text_dark">DARK</string>
+
+    <string name="about_author">Author: VN APNIC</string>
+    <string name="about_text">"Night owl can help you prevent from the harm of strong light at night.\nSome devices\' lowest brightness are still high so we can make it lower by creating a mask on screen."</string>
+    <string name="about_other">PlayStore: <a href="https://play.google.com/store/apps/dev?id=8871311152227400334">https://play.google.com/store/apps/dev?id=8871311152227400334</a></string>
+
+    <string name="dialog_overlay_enable_title">Enable Overlay Status Bar</string>
+    <string name="dialog_overlay_enable_message">Enable this can make mask on the top of screen, but it may needs a permission in some devices (Such as MIUI and Android 6.0)\nIf it couldn\'t work, please allow this app to show system alert window.</string>
+
+    <string name="mask_fail_to_start">Failed to start mask. Please check if system has denied the permissions.</string>
+
+    <string name="dialog_first_run_title">First run</string>
+    <string name="dialog_first_run_message">Can you see this message? If you can, it proves that Night owl is working well. \nIt will automatically stop after 5 seconds if you didn\t press OK.</string>
+
+    <string name="notification_running_title">Night owl is working</string>
+    <string name="notification_running_msg">Click here to open settings</string>
+    <string name="notification_action_turn_off">Turn off</string>
+
+</resources>
